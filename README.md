@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm Bryan Ortiz, Software Developer :man_technologist:.</h3>
 <br>
-<h4 align="center">⚡ Fun facts: I'm also an Industrial Engineer who loves entrepeneurship 💚.</h4>
+<h4 align="center">⚡ Fun facts: I'm also an Industrial Engineer who loves entrepreneurship 💚.</h4>
 
 <!-- GitHub Stats -->
 
