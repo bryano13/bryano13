@@ -1,16 +1,24 @@
-### Hi there 👋
+<!-- Intro -->
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 
-<!--
-**bryano13/bryano13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm Bryan Ortiz, Software Developer👩🏽‍💻.</h3>
+<br>
+<h4 align="center">⚡ Fun facts: I'm also an Industrial Engineer who loves entrepeneurship 💚.</h4>
 
-Here are some ideas to get you started:
+<!-- GitHub Stats -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryano13&hide=stars&show_icons=true&theme=vue" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryano13&layout=compact&theme=vue" /></p>
+
+
+<!-- Social media -->
+
+<br>
+<p align="center">You can find me in
+<a href="https://twitter.com/Bryano_13" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Bryano_13" height="30" width="30" /></a> or in <a href="https://linkedin.com/in/bryan-ortiz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bryanortiz" height="30" width="30" /></a>
+</p>
+
+<!-- Contador de visitas -->
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bryano13&color=brightgreen&style=plastic" alt="bryanortiz" /></p>
