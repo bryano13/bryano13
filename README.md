@@ -1,7 +1,7 @@
 <!-- Intro -->
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 
-<h3 align="center">I'm Bryan Ortiz, Software Developer :man_technologist:.</h3>
+<h3 align="center">I'm Bryan Ortiz :cool_cowboy:, Software Developer :man_technologist:.</h3>
 <br>
 <h4 align="center">⚡ Fun facts: I'm also an Industrial Engineer who loves entrepreneurship 💚.</h4>
 
