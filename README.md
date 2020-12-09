@@ -5,7 +5,7 @@
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045841/799/dancing.gif?1471045841" width="30"/>I'm Bryan Ortiz, Software Developer :man_technologist:.</h3>
 <br>
 <h4 align="center">⚡ Fun facts: I'm also an Industrial Engineer who loves entrepreneurship 💚.</h4>
-
+</div>
 <!-- GitHub Stats -->
 
 <br>
