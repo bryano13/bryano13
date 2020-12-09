@@ -9,7 +9,7 @@
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bryano13&hide=stars&show_icons=true&theme=vue" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryano13&layout=compact&theme=vue" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryano13&layout=compact&theme=highcontrast" /></p>
 
 
 <!-- Social media -->
